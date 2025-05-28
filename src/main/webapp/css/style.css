@@ -1,0 +1,93 @@
+@charset "UTF-8";
+
+
+@font-face {
+    font-family: 'DotGothic16';
+    src: url('../fonts/DotGothic16-Regular.ttf') format('truetype');
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #ffe6f0;
+    color: #333;
+    font-family: 'DotGothic16', sans-serif;
+	
+	cursor: url('../cursors/Kitty-Arrow.cur'), auto;
+}
+
+/*form {*/
+/*	input[type='text'], input[type='password'] {*/
+/*	    width: 100%;*/
+/*	    padding: 12px;*/
+/*	    margin: 10px 0;*/
+/*	    border: 1px solid #ffb6c1;*/
+/*	    border-radius: 10px;*/
+/*	    font-size: 16px;*/
+/*	    box-sizing: border-box;*/
+/*	}*/
+
+/*}*/
+
+div {
+	color: white;
+}
+
+input[type='text'], input[type='password'] {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ffb6c1;
+    border-radius: 10px;
+    font-size: 16px;
+    box-sizing: border-box;
+    font-family: 'DotGothic16', sans-serif;
+
+}
+
+
+
+h2, h3 {
+    color: #cc3366;
+}
+
+
+textarea {
+    width: 100%;
+    height: 200px;       
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ffb6c1;
+    border-radius: 10px;
+    font-size: 16px;
+    box-sizing: border-box;
+    resize: vertical;
+    font-family: 'DotGothic16', sans-serif;
+}
+
+
+button {
+    background-color: #ff99cc;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+	font-family: 'DotGothic16', sans-serif;
+	cursor: url('../cursors/Kitty-Arrow.cur'), auto;
+}
+
+button:hover {
+    background-color: #ff66a3;
+}
+
+a {
+    color: #cc3366;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
