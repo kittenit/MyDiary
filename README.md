@@ -1,5 +1,10 @@
 # 📑 MyDiary - Personal Project Presentation
 
+
+# MyDiary
+JAVA
+---
+
 <p align="center">
   <img src="portfolio_ppt/スライド32.JPG" width="1000"><br/>
   <b>main</b>
