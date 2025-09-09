@@ -1,9 +1,9 @@
-# 📑 MyDiary - Personal Project Presentation
 
+# Portfolio
+Java
 
-# MyDiary
-JAVA
----
+----
+
 
 <p align="center">
   <img src="portfolio_ppt/スライド32.JPG" width="1000"><br/>
