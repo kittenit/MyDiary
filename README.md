@@ -2,46 +2,42 @@
 
 <p align="center">
   <img src="portfolio_ppt/スライド32.JPG" width="1000"><br/>
-  <b>スライド 32</b>
+  <b>main</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド33.JPG" width="1000"><br/>
-  <b>スライド 33</b>
+  <b>技術 スタック</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド34.JPG" width="1000"><br/>
-  <b>スライド 34</b>
+  <b>ログイン&会員登録　画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド35.JPG" width="1000"><br/>
-  <b>スライド 35</b>
+  <b>ダイアリー　メイン画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド36.JPG" width="1000"><br/>
-  <b>スライド 36</b>
+  <b>ダイアリー　修正　画面</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド37.JPG" width="1000"><br/>
-  <b>スライド 37</b>
+  <b>技術の構成（MVCモデル）</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド38.JPG" width="1000"><br/>
-  <b>スライド 38</b>
+  <b>ERD</b>
 </p>
 
 <p align="center">
   <img src="portfolio_ppt/スライド39.JPG" width="1000"><br/>
-  <b>スライド 39</b>
+  <b>難しかった部分、達成感を感じた部分</b>
 </p>
 
-<p align="center">
-  <img src="portfolio_ppt/スライド40.jpg" width="1000"><br/>
-  <b>スライド 40</b>
-</p>
 
